@@ -1,6 +1,6 @@
 # Realtor App
 
-[Live App](lcliving.vercel.app)
+[Live App](http://lcliving.vercel.app)
 
 This Next.js project uses the Bayut API to list, filter, and search available real estate properties in the UAE. It is a fully functional real estate search engine with advanced filtering options.
 
